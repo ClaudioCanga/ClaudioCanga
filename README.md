@@ -1,96 +1,23 @@
-# 👨‍💻 Cláudio Eduardo
+### hello, my name is Claudio
 
-**Desenvolvedor Python e Ciência de Dados**
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoclaudio785/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cláudio-eduardo-171265253/)
 
-Bem-vindo ao meu portfólio profissional!  
-Sou apaixonado por tecnologia, análise de dados e construção de soluções inteligentes que transformam informação em valor.  
-Aqui você encontrará uma seleção dos meus principais projetos (alguns públicos, outros privados — disponíveis mediante solicitação).
+![Cláudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCanga&show_icons=true&theme=radical)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCanga&hide_progress=true&theme=dracula)
 
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor com foco em **Python**, **Ciência de Dados** e **Back-End**.  
-- 📊 Experiência com **Pandas**, **NumPy**, **Django**, **Flask**, **SQL**, **Machine Learning** e **APIs**.  
-- 🧠 Interesso-me por **Inteligência Artificial**, **Matemática Aplicada** e **Engenharia de Software**.  
-- 🎯 Objetivo: crescer como **cientista de dados** e construir uma carreira internacional sólida.  
-
----
-
-## 🧩 Principais Projetos
-
-### 1. 🩺 Sistema de Gestão Hospitalar (Privado)
-**Stack:** Django, PostgreSQL, Bootstrap  
-Plataforma completa para gestão de clínicas — cadastro de pacientes, médicos, agendamentos e faturação.  
-> 🔒 Código privado — acesso mediante solicitação.  
-📸 *Screenshots e vídeo demo disponíveis no portfólio.*
-
----
-
-### 2. 📈 Dashboard de Vendas e Previsão de Receita
-**Stack:** Python, Dash, Plotly, Scikit-learn  
-Dashboard interativo com análise temporal e previsão de vendas com modelos de regressão.  
-> 🔓 [Ver no GitHub](#) *(exemplo público ou link do vídeo demo)*  
-
----
-
-### 3. 🤖 Sistema de Recomendação de Filmes
-**Stack:** Python, Pandas, Scikit-learn  
-Modelo de filtragem colaborativa que recomenda filmes com base em preferências do utilizador.  
-> 🔒 Código privado — partilho o acesso sob pedido.  
-
----
-
-### 4. 🧮 Aplicativo de Cálculo Matemático Avançado
-**Stack:** Flask, NumPy, SymPy  
-API web para resolução de expressões matemáticas simbólicas e cálculo diferencial.  
-> 🔓 [Ver código público](#)
-
----
-
-### 5. 🌍 Análise de Dados Socioeconômicos em África
-**Stack:** Jupyter Notebook, Pandas, Seaborn  
-Estudo estatístico e visualização de dados sobre indicadores de desenvolvimento nos países africanos.  
-> 🔒 Notebook privado — resultados e insights no relatório PDF.  
-
----
-
-### 6. 🧬 Classificação de Doenças com Machine Learning
-**Stack:** Python, TensorFlow, Scikit-learn  
-Modelo de deep learning para previsão de doenças com base em dados clínicos.  
-> 🔒 Código privado — disponível mediante pedido técnico.
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-| Categoria | Tecnologias |
-|------------|--------------|
-| **Linguagens** | Python, SQL, JavaScript (básico) |
-| **Frameworks** | Django, Flask, Dash |
-| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn |
-| **Banco de Dados** | PostgreSQL, SQLite, MySQL |
-| **Outros** | Git, Docker, VS Code, Linux |
-
----
-
-## 📫 Contato
-
-- 💼 [LinkedIn](#)
-- 🐙 [GitHub](#)
-- ✉️ **claudioeduardo@email.com**  
-- 🌍 Baseado em Angola — aberto a oportunidades internacionais.
-
----
-
-## ⚙️ Nota sobre acesso aos repositórios privados
-
-Alguns projetos deste portfólio são **privados** por conterem dados sensíveis ou de clientes.  
-📧 Caso queira analisá-los para fins de recrutamento, **entre em contato por e-mail ou LinkedIn**, e concederei **acesso direto como colaborador**.
-
----
-
-⭐ _Se gostou do meu trabalho, considere deixar uma estrela nos projetos públicos!_  
+<div style="display: inline_block"></br>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
 
 
