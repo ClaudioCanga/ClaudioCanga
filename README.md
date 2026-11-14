@@ -1,23 +1,33 @@
-### hello, my name is Claudio
+<p align="center"><img src="banner.svg" alt="Cláudio Eduardo — Data Science & Machine Learning" width="100%"></p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoclaudio785/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cláudio-eduardo-171265253/)
+### Hi, I'm Cláudio
 
-![Cláudio GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioCanga&show_icons=true&theme=radical)
+Computer Science student at **ETU «LETI»** (Saint Petersburg), AI profile, working toward **Machine Learning / Applied AI engineering**. I also work remotely as a backend developer, building healthcare software with PHP/Laravel and Python.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioCanga&hide_progress=true&theme=dracula)
+**Currently**
+- Exploratory data analysis and visualization with Python
+- Statistics, linear algebra and the math behind ML
+- Building a portfolio of data projects, pinned below
 
-<div style="display: inline_block"></br>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</div>
+**Highlights**
+- **[Pulso Seguro](https://github.com/nangazaki/pulso-seguro)** — final-year project at ITEL: a wearable (ESP8266 + MAX30102 sensor) that monitors heart rate and blood oxygen, streams readings over MQTT and raises alerts in a web dashboard. I built the electronics, the firmware and the whole backend.
+- **Biometric patient identification** (at work, private repository) — a Python/Flask bridge for a fingerprint reader, integrated with a Laravel REST API in a hospital-management system.
 
+**Stack**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Languages:** Portuguese · Russian · English
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiocanga/)
